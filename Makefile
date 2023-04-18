@@ -6,10 +6,12 @@
 #    By: ykarabul <@student.42kocaeli.com.tr>       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/03/17 15:06:01 by ykarabul          #+#    #+#              #
-#    Updated: 2023/04/01 00:07:27 by ykarabul         ###   ########.fr        #
+#    Updated: 2023/04/18 21:21:45 by ykarabul         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
+# PORGRAMI ÇALIŞTIRMAK İÇİN MAKE CHECKER'I ÇALIŞTIRMAK İÇİN MAKE BONU VEYA MAKE ALL
+# KOMUTUNU KULLANIN 
 NAME = push_swap
 
 BONUS_NAME = checker
